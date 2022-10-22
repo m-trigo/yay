@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/yay.mp3-c2d0feeef14146310b44ec5094c4dbbc.mp3str"
+
+[deps]
+
+source_file="res://addons/kenney_interface_sounds/yay.mp3"
+dest_files=[ "res://.import/yay.mp3-c2d0feeef14146310b44ec5094c4dbbc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
